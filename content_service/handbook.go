@@ -1,4 +1,4 @@
-package content_service
+package var_content_service
 
 type Handbook struct {
 	Active      bool   `json:"active"`

@@ -1,4 +1,4 @@
-package apigateway
+package var_apigateway
 
 import "mime/multipart"
 
