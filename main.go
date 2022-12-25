@@ -109,6 +109,14 @@ var SaveButtonForbiddenStatuses = []string{
 	InDiscussionTypeSix,
 }
 
+var ProjectOrganizationDefaultPermissions = []string{
+	"61028a003ed0c289c2eecbd3",
+	"61028a003ed0c289c2eecbd5",
+	"61028a003ed0c289c2eecbd6",
+	"6135dc19a55f7420e58bf806",
+	"6142ed926ff4d84171ad75f5",
+}
+
 var ConstructionTypesWithAuctionCode = map[string]string{
 	"6142c2046074f7fa21292a28": "1",
 	"6142c2046074f7fa21292a29": "2",
