@@ -68,6 +68,31 @@ const (
 			**********************************************************************
 
 	*/
+
+	/*
+
+			**********************************************************************
+		                                    ORGANIZATIONS
+			**********************************************************************
+
+	*/
+	UzGASHLITI = "61fa7a2b9cc8808579eb9930"
+
+		/*
+
+			**********************************************************************
+		                                    URLS AND AUTH
+			**********************************************************************
+
+	*/
+	// DavreestrUrls
+	DavReestrUrl          = "https://davreestr.kadastr.uz/api/yer-elektron/push"
+
+	// Soliq
+	SoliqLoginURL = "http://10.190.27.58:8103/reestr-user-api/anonymous/login"
+	SoliqURL      = "http://10.190.27.58:8103/reestr-admin-api/company/get/"
+	SoliqUsername = "XXXXX"
+	SoliqPassword = "YYYYY"
 )
 
 var UpdateForbiddenStatuses = []string{
